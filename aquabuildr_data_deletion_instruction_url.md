@@ -19,7 +19,7 @@ If you want to delete your activities for Aquabuildr App, you can remove your in
 
 
 
-Also, to delete your account data from Aquabuildr app, you can follow the following steps:
+# To delete your account data from Aquabuildr app/database, you can follow the following steps:
 
 1. Go to more section from home screen of your app
 
